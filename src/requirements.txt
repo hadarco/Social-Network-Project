@@ -6,7 +6,7 @@ Markdown==2.6.9
 pip==9.0.1
 pytz==2017.2
 setuptools==36.5.0
-wheel==0.30.0
+wheel==0.38.1
 selenium==3.14.0
 webdriver-test-tools == 3.0.0
 django-jenkins == 0.110.0
